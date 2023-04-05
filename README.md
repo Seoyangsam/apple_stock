@@ -1,4 +1,5 @@
 #Predicting Apple Stock Prices using LSTM and Time Series Analysis
+
 ##Introduction
 This repository contains code and data for predicting the stock price of Apple using Long Short-term memory (LSTM) and traditional time series analysis techniques. The dataset used in this project is sourced from Kaggle, and it covers a period of over 40 years, from 1980 to 2021.
 
