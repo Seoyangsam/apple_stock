@@ -12,7 +12,7 @@ We plan to use a combination of LSTM and traditional time series analysis techni
 We will use a rolling window approach to train and test the LSTM model. This approach involves using a subset of the data as training data and the remaining data as testing data. This will allow us to evaluate the model's performance over time and assess its ability to make accurate predictions.
 
 ## Code
-The code for this project is written in Python and is available in the code directory. The code is organized into different files for preprocessing, modeling, and evaluation.
+The code for this project is written in Python and is available in the code directory. The code is organized into different files for linear regression, time series and LSTM.
 
 ## Results
 The results of our analysis will be presented in the form of plots and tables, which will show the performance of the different models and the most important financial indicators that affect the stock price of Apple.
