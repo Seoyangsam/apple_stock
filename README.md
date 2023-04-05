@@ -4,7 +4,7 @@
 This repository contains code and data for predicting the stock price of Apple using Long Short-term memory (LSTM) and traditional time series analysis techniques. The dataset used in this project is sourced from Kaggle, and it covers a period of over 40 years, from 1980 to 2021.
 
 ## Dataset
-The dataset contains historical stock prices of Apple and financial indicators such as Open, Close, High, Low, Volume, and Adjusted Close. The data was sourced from Yahoo Finance, which is a reputable source of financial information.
+The [dataset](https://www.kaggle.com/datasets/meetnagadia/apple-stock-price-from-19802021) contains historical stock prices of Apple and financial indicators such as Open, Close, High, Low, Volume, and Adjusted Close. The data was sourced from Yahoo Finance, which is a reputable source of financial information.
 
 ## Approach
 We plan to use a combination of LSTM and traditional time series analysis techniques such as Autoregressive Integrated Moving Average (ARIMA) and Exponential Smoothing (ETS) to make predictions. Additionally, we will use linear regression to identify the most important financial indicators that affect the stock price of Apple.
