@@ -15,7 +15,12 @@ We will use a rolling window approach to train and test the LSTM model. This app
 The code for this project is written in Python and is available in the code directory. The code is organized into different files for linear regression, time series and LSTM.
 
 ## Results
-The results of our analysis will be presented in the form of plots and tables, which will show the performance of the different models and the most important financial indicators that affect the stock price of Apple.
+
+| Model                         | MSE      | MAE      |
+|-------------------------------|----------|----------|
+| Linear model                  | 46.9450739620167| 24.0875589083806|
+| LSTM                          | 46.9452004237641| 24.0878229405589|
+| Time serises analysis         | 47.8232444073489| 24.2590743626267|
 
 ## Conclusion
 We believe that this project will provide valuable insights into the stock market and help investors make informed decisions based on data-driven insights. The code and data in this repository are open-source and can be used by anyone interested in predicting stock prices using LSTM and time series analysis techniques.
