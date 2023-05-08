@@ -18,9 +18,9 @@ The code for this project is written in Python and is available in the code dire
 
 | Model                         | MSE      | MAE      |
 |-------------------------------|----------|----------|
-| Linear model                  | 1.63     | 0.98     |
-| LSTM                          | 0.0841   | 1.2      |
-| Time serises analysis         |          |          |
+| Linear model                  | 14.98    | 3.22     |
+| LSTM                          | 9.86     | 2.02      |
+| Arima                         |   776.6       |     27.1     |
 
 ## Conclusion
 We believe that this project will provide valuable insights into the stock market and help investors make informed decisions based on data-driven insights. The code and data in this repository are open-source and can be used by anyone interested in predicting stock prices using LSTM and time series analysis techniques.
